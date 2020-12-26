@@ -1,0 +1,23 @@
+.mainbd {
+    background-color:#121212;
+}
+.four {
+    color: white;
+    text-align: center;
+}
+.errorpage {
+    font-size: 50pt;
+    text-align: center;
+}
+.mainhdr {
+    font-family: 'Anton', sans-serif;
+    color: white;
+    text-align:center;
+    font-size: 50pt;
+}
+.hdr2 {
+    font-family: 'Anton', sans-serif;
+    color: white;
+    text-align:center;
+    font-size: 30pt;
+}
