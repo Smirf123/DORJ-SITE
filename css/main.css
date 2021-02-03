@@ -1,6 +1,47 @@
-.mainbd {
-    background-color:#121212;
+.body {
+    background-color:#161616;
 }
+
+.topbar {
+  background-color: #02496d;
+  height: 96px;
+}
+
+.topbar .logo1 {
+    margin: 3px 7px;
+    float: left;
+    width: 90px;
+    height: 90px;
+}
+
+.topbar .headerbutton1 {
+  color: white;
+  float: left;
+  padding: 31px 50px;
+  font-size: 21px;
+}
+
+.topbar .headerbutton2 {
+  color: white;
+  float: left;
+  padding: 31px 12px;
+  font-size: 21px;
+}
+
+.topbar .headerbutton3 {
+  color: white;
+  float: left;
+  padding: 31px 36px;
+  font-size: 21px;
+}
+
+.topbar .headerbutton4 {
+  color: white;
+  float: left;
+  padding: 31px 24px;
+  font-size: 21px;
+}
+
 .four {
     color: white;
     text-align: center;
@@ -9,15 +50,18 @@
     font-size: 50pt;
     text-align: center;
 }
+
 .mainhdr {
     font-family: 'Anton', sans-serif;
     color: white;
     text-align:center;
     font-size: 50pt;
+    padding: 125px 0px;
 }
 .hdr2 {
     font-family: 'Anton', sans-serif;
     color: white;
     text-align:center;
     font-size: 30pt;
+  padding: 0px 0px;
 }
