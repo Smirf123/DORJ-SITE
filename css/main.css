@@ -1,5 +1,9 @@
 .body {
-    background-color:#161616;
+  background-color:#161616;
+  background-attachment: fixed;
+  background-size: 100%;
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp1853047.jpg&f=1&nofb=1);
+  height: 650px;
 }
 
 .topbar {
@@ -69,6 +73,7 @@
     color: white;
     text-align: center;
 }
+
 .errorpage {
     font-size: 50pt;
     text-align: center;
@@ -84,7 +89,8 @@
 .hdr2 {
     font-family: 'Anton', sans-serif;
     color: white;
+    float: center;
     text-align:center;
-    font-size: 30pt;
-  padding: 0px 0px;
+    font-size: 22pt;
+    padding: 5px 45px;
 }
