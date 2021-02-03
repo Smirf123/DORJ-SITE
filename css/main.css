@@ -3,7 +3,6 @@
 }
 
 .topbar {
-  background-color: #02496d;
   height: 96px;
 }
 
@@ -21,11 +20,23 @@
   font-size: 21px;
 }
 
+.topbar .headerbutton1:hover {
+  float: left;
+  text-decoration: underline;
+  font-size: 23px;
+}
+
 .topbar .headerbutton2 {
   color: white;
   float: left;
   padding: 31px 12px;
   font-size: 21px;
+}
+
+.topbar .headerbutton2:hover {
+  float: left;
+  text-decoration: underline;
+  font-size: 23px;
 }
 
 .topbar .headerbutton3 {
@@ -35,11 +46,23 @@
   font-size: 21px;
 }
 
+.topbar .headerbutton3:hover {
+  float: left;
+  text-decoration: underline;
+  font-size: 23px;
+}
+
 .topbar .headerbutton4 {
   color: white;
   float: left;
   padding: 31px 24px;
   font-size: 21px;
+}
+
+.topbar .headerbutton4:hover {
+  float: left;
+  text-decoration: underline;
+  font-size: 23px;
 }
 
 .four {
