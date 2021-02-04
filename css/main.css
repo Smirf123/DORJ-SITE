@@ -1,23 +1,96 @@
-.mainbd {
-    background-color:#121212;
+.body {
+  background-color:#161616;
+  background-attachment: fixed;
+  background-size: 100%;
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp1853047.jpg&f=1&nofb=1);
+  height: 650px;
 }
+
+.topbar {
+  height: 96px;
+}
+
+.topbar .logo1 {
+    margin: 3px 7px;
+    float: left;
+    width: 90px;
+    height: 90px;
+}
+
+.topbar .headerbutton1 {
+  color: white;
+  float: left;
+  padding: 31px 50px;
+  font-size: 21px;
+}
+
+.topbar .headerbutton1:hover {
+  float: left;
+  text-decoration: underline;
+  font-size: 23px;
+}
+
+.topbar .headerbutton2 {
+  color: white;
+  float: left;
+  padding: 31px 12px;
+  font-size: 21px;
+}
+
+.topbar .headerbutton2:hover {
+  float: left;
+  text-decoration: underline;
+  font-size: 23px;
+}
+
+.topbar .headerbutton3 {
+  color: white;
+  float: left;
+  padding: 31px 36px;
+  font-size: 21px;
+}
+
+.topbar .headerbutton3:hover {
+  float: left;
+  text-decoration: underline;
+  font-size: 23px;
+}
+
+.topbar .headerbutton4 {
+  color: white;
+  float: left;
+  padding: 31px 24px;
+  font-size: 21px;
+}
+
+.topbar .headerbutton4:hover {
+  float: left;
+  text-decoration: underline;
+  font-size: 23px;
+}
+
 .four {
     color: white;
     text-align: center;
 }
+
 .errorpage {
     font-size: 50pt;
     text-align: center;
 }
+
 .mainhdr {
     font-family: 'Anton', sans-serif;
     color: white;
     text-align:center;
     font-size: 50pt;
+    padding: 125px 0px;
 }
 .hdr2 {
     font-family: 'Anton', sans-serif;
     color: white;
+    float: center;
     text-align:center;
-    font-size: 30pt;
+    font-size: 22pt;
+    padding: 5px 45px;
 }
