@@ -4,5 +4,6 @@
 
 ---
 
-### Forked Info:
+### Contributors:
+- Creator [Smirf123#5911]
 - Edited / Remastered by [Hyperz#0001](https://hyperz.dev/discord)
